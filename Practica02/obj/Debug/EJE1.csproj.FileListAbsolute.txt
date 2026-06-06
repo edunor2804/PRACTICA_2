@@ -1,0 +1,7 @@
+D:\Fund_Algoritmos\Practica02\Practica02\bin\Debug\Practica02.exe.config
+D:\Fund_Algoritmos\Practica02\Practica02\bin\Debug\Practica02.exe
+D:\Fund_Algoritmos\Practica02\Practica02\bin\Debug\Practica02.pdb
+D:\Fund_Algoritmos\Practica02\Practica02\obj\Debug\EJE1.csproj.AssemblyReference.cache
+D:\Fund_Algoritmos\Practica02\Practica02\obj\Debug\EJE1.csproj.CoreCompileInputs.cache
+D:\Fund_Algoritmos\Practica02\Practica02\obj\Debug\Practica02.exe
+D:\Fund_Algoritmos\Practica02\Practica02\obj\Debug\Practica02.pdb
