@@ -29,8 +29,8 @@ namespace EJE1
                 Console.WriteLine("Eres menor de edad");
             }
 
-          
+            Console.ReadKey();
         }
     }
 }
-  Console.ReadKey();
+  
