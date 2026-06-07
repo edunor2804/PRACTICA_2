@@ -19,7 +19,7 @@ namespace EJE1
             //Convierte la edad ingresada y lo convierte a entero
             edad = int.Parse(Console.ReadLine());
 
-            //Verifica si la edad es mayor a 18
+            //Verifica si la edad es mayor a 18 
             if(edad >= 18) 
             {
                 Console.WriteLine("Eres mayor de edad");
