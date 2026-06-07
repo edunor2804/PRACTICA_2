@@ -52,6 +52,7 @@ namespace EJE2
                     break;
 
                 default:
+                    //Muestra mensaje si la opcion no exite
                     Console.WriteLine("Opcion no valida, elige un numero del 1 al 4.");
                     Console.ReadKey();
                     break;
